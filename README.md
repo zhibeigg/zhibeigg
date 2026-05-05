@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:1D4ED8,100:7C3AED&text=zhibeigg&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Kotlin%20Engineer%20%2F%20Minecraft%20Ecosystem%20Builder%20%2F%20Product%20System%20Maker&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:1D4ED8,100:7C3AED&text=zhibeigg&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Kotlin%20Engineer%20%2F%20Minecraft%20Ecosystem%20%2F%20Product%20Systems&descAlignY=58&descSize=17" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%8F%AB%E6%88%91%E7%BA%B8%E6%9D%AF%E5%B0%B1%E8%A1%8C.;I+build+systems%2C+not+just+features.;Kotlin+is+the+main+weapon.;Minecraft+ecosystem%2C+ERP%2C+JVM%2C+LLM+agents.;If+the+abstraction+leaks%2C+I+rewrite+the+pipe." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%8F%AB%E6%88%91%E7%BA%B8%E6%9D%AF%E5%B0%B1%E8%A1%8C.;Quietly+building+useful+systems.;Kotlin%2C+Minecraft+ecosystem%2C+ERP%2C+JVM.;Small+interfaces%2C+steady+systems.;Keep+it+simple%2C+make+it+reliable." />
 </p>
 
 <p>
@@ -37,13 +37,12 @@
 
 我主要写 **Kotlin / Java / TypeScript**，长期折腾 **Minecraft 服务端生态、JVM 工程、跨服通信、技能属性系统、ERP 产品系统、Web 工具链、LLM Agent**。
 
-我不太相信“能跑就行”。  
-能跑只是代码没有当场死亡，不代表它值得活着。
+我更喜欢把复杂的事情慢慢拆开，做成清晰、稳定、容易维护的系统。
 
 ```txt
 我喜欢构建系统。
-不是截图工程，不是玩具 demo，不是一次性脚本。
-是那种需求变了还能活、玩家多了还能扛、半年后回来还能看懂的东西。
+不追求声势很大，更在意长期可用。
+希望需求变化时少一点慌张，半年后回来看代码也还能顺手接上。
 ```
 
 ---
@@ -182,7 +181,7 @@
 
 #### ⚔️ [Orryx](https://github.com/zhibeigg/Orryx)
 
-跨时代技能插件，支持复杂逻辑实现，为稳定高效而生。重点不是“放技能”，而是把复杂逻辑、配置表达、运行时稳定性、扩展 API 和工程化维护塞进一个能长期活下去的系统里。
+跨时代技能插件，支持复杂逻辑实现，关注稳定性、配置表达、运行时维护和扩展 API。
 
 <p>
   <a href="https://orryx.mcwar.cn"><img src="https://img.shields.io/badge/Docs-orryx.mcwar.cn-2563EB?style=flat-square" /></a>
@@ -196,7 +195,7 @@
 
 #### 🛡️ [Nodens](https://github.com/zhibeigg/Nodens)
 
-跨时代属性插件，支持自定义公式、物品克隆模板、PRD 伪随机算法。属性、公式、模板、随机算法组成玩法系统的底层骨架。
+跨时代属性插件，支持自定义公式、物品克隆模板和 PRD 伪随机算法，为玩法系统提供比较稳定的基础能力。
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -211,7 +210,7 @@
 
 #### 🔌 [RedisChannel](https://github.com/zhibeigg/RedisChannel)
 
-面向 Bukkit 插件的 Redis 通道，基于 Lettuce 处理跨服同步、消息分发与事件桥接。跨服通信写得差，最后一定会在玩家最多的时候提醒你什么叫工程债。
+面向 Bukkit 插件的 Redis 通道，基于 Lettuce 处理跨服同步、消息分发与事件桥接，尽量让跨服通信保持简单可靠。
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -224,7 +223,7 @@
 
 #### 🧠 [LLM-BRAIN](https://github.com/zhibeigg/LLM-BRAIN)
 
-有向记忆图 + 多角色 LLM 类脑智能体系统。不是把 prompt 堆成意大利面，而是尝试让 Agent 拥有结构化记忆、角色分工和可追踪的推理路径。
+有向记忆图 + 多角色 LLM 类脑智能体系统。尝试用结构化记忆、角色分工和可追踪流程来组织 Agent 工作。
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -244,7 +243,7 @@
 
 #### 🕯️ [MinecraftAzathoth](https://github.com/MinecraftAzathoth)
 
-围绕 **Azathoth** 构建的 Minecraft MMORPG 服务框架组织。目标不是“再写一个插件”，而是把服务端框架、模块化能力、网站主站和高可用工程拼成一套能扩展的生态。
+围绕 **Azathoth** 构建的 Minecraft MMORPG 服务框架组织，主要探索服务端框架、模块化能力、网站主站和可扩展工程实践。
 
 <p>
   <a href="https://github.com/MinecraftAzathoth/azathoth"><img src="https://img.shields.io/badge/azathoth-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
@@ -256,7 +255,7 @@
 Modular MMORPG server framework
 High availability / auto scaling direction
 Kotlin backend + Vue website
-Designed for ridiculous player counts
+Designed for scalable server scenarios
 ```
 
 </td>
@@ -264,7 +263,7 @@ Designed for ridiculous player counts
 
 #### 🏭 omegaerp
 
-面向机械加工企业的轻量级、移动优先 ERP 系统。它不是“表单 + CRUD”的管理后台，而是把接单、工序、仓储、采购、配送、财务、通知和审计串成一条可落地的业务闭环。
+面向机械加工企业的轻量级、移动优先 ERP 系统。围绕接单、工序、仓储、采购、配送、财务、通知和审计整理一条可落地的业务闭环。
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin_1.9-Spring_Boot_3.3-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -329,9 +328,9 @@ TypeScript / Vue 工具链与业务平台工程，围绕编辑器、Web 工具�
 </tr>
 </table>
 
-> 私有仓库像实验室。  
-> 有些实验是为了优雅，有些是为了效率。  
-> 还有一些，单纯是为了证明“这破东西其实可以被做对”。
+> 私有仓库更像工作台。  
+> 有些用于验证想法，有些用于沉淀工具。  
+> 慢慢打磨，能用、好维护，就够了。
 
 ---
 
@@ -380,12 +379,12 @@ zhibeigg
 
 ```kotlin
 object EngineeringPrinciples {
-    val stability = "稳定不是加分项，是入场券"
-    val abstraction = "抽象不是为了显得聪明，是为了下次需求变更时不用骂人"
-    val performance = "性能问题不会消失，它只会等到玩家最多的时候出现"
-    val apiDesign = "好的 API 应该像门把手，不该像密室逃脱"
-    val documentation = "没人想读文档，但没有文档的人更惨"
-    val openSource = "开源不是把代码丢出去，是把维护责任也一起接住"
+    val stability = "先稳定，再谈更多可能"
+    val abstraction = "抽象服务于维护，也服务于下一次修改"
+    val performance = "性能问题最好在热闹之前解决"
+    val apiDesign = "好的 API 应该直觉、克制、少打扰"
+    val documentation = "文档写清楚一点，后来的人会轻松一点"
+    val openSource = "开源是一种长期维护的承诺"
 }
 ```
 
@@ -491,9 +490,9 @@ Org projects:    MinecraftAzathoth MMORPG framework
 Product work:    OmegaERP manufacturing workflow system
 Private lab:     very active
 Main language:   Kotlin
-Current mood:    rewriting things that should have been designed properly
-Favorite bug:    the one that disappears when you add logging
-Least favorite:  "能不能明天上线？"
+Current mood:    quietly improving small details
+Favorite bug:    the one that disappears when logging is added
+Least favorite:  vague requirements with urgent deadlines
 ```
 
 ---
@@ -518,8 +517,8 @@ Least favorite:  "能不能明天上线？"
 
 <div align="center">
 
-### 不是所有轮子都值得造。  
-### 但值得造的轮子，我会造到能碾过需求。
+### 慢慢写，认真用。  
+### 小一点的接口，稳一点的系统。
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:2563EB,100:020617" />
 
