@@ -16,6 +16,9 @@
   <a href="https://github.com/zhibeigg?tab=repositories">
     <img src="https://img.shields.io/badge/REPOS-PUBLIC_%2B_PRIVATE-0ea5e9?style=for-the-badge" />
   </a>
+  <a href="https://github.com/orgs/MinecraftAzathoth/repositories">
+    <img src="https://img.shields.io/badge/ORG-MinecraftAzathoth-7c3aed?style=for-the-badge" />
+  </a>
   <a href="https://www.mcwar.cn">
     <img src="https://img.shields.io/badge/WWW-MCWAR.CN-22c55e?style=for-the-badge" />
   </a>
@@ -158,6 +161,64 @@ Bukkit 插件的 Redis 通信层。
 
 ---
 
+## `organization_projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🕯️ [MinecraftAzathoth](https://github.com/MinecraftAzathoth)
+
+围绕 **Azathoth** 构建的 Minecraft MMORPG 服务框架组织。  
+目标不是“再写一个插件”，而是把服务端框架、模块化能力、网站主站和高可用工程拼成一套能扩展的生态。
+
+<p>
+  <a href="https://github.com/MinecraftAzathoth/azathoth">
+    <img src="https://img.shields.io/badge/azathoth-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MinecraftAzathoth/azathoth-website">
+    <img src="https://img.shields.io/badge/azathoth--website-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/stars/MinecraftAzathoth/azathoth?style=flat-square" />
+</p>
+
+```txt
+Modular MMORPG server framework
+High availability / auto scaling direction
+Kotlin backend + Vue website
+Designed for ridiculous player counts
+```
+
+</td>
+<td width="50%">
+
+### ✨ [AshandLight-RPG](https://github.com/AshandLight-RPG)
+
+RPG 服务器工程组织，维护背包、插件配置与服务端运行资产。  
+这些项目更贴近真实服的生产环境：不是写完就扔，而是要能被配置、部署、维护、迁移和救火。
+
+<p>
+  <img src="https://img.shields.io/badge/Backpack-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/albag-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plugin-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+```txt
+RPG server production stack
+Backpack / bag systems
+Server plugins and configuration
+Operational assets, not museum exhibits
+```
+
+</td>
+</tr>
+</table>
+
+> 个人仓库是实验台，组织项目是战场。  
+> 实验台上可以优雅，战场上必须活着。
+
+---
+
 ## `private_lab`
 
 有些东西不在公开区。  
@@ -266,6 +327,21 @@ zhibeigg
 │     ├─ Memory Routing
 │     └─ Brain-like Workflow
 │
+├─ Organization Projects
+│  ├─ MinecraftAzathoth
+│  │  ├─ azathoth
+│  │  │  ├─ Modular MMORPG Server Framework
+│  │  │  ├─ High Availability Direction
+│  │  │  └─ Kotlin Architecture
+│  │  └─ azathoth-website
+│  │     ├─ Vue Frontend
+│  │     └─ Documentation / Main Site
+│  │
+│  └─ AshandLight-RPG
+│     ├─ Backpack
+│     ├─ albag
+│     └─ Plugin Configuration Stack
+│
 ├─ Private Lab
 │  ├─ Dagon
 │  ├─ Kthanid
@@ -311,21 +387,25 @@ object EngineeringPrinciples {
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h3>Plugins</h3>
 <p>Minecraft Bukkit / Paper plugin systems</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h3>Runtimes</h3>
 <p>JVM services, Redis channels, cross-server logic</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h3>Tools</h3>
 <p>Editors, dashboards, automation, internal utilities</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h3>Agents</h3>
 <p>LLM memory graph and multi-role workflows</p>
+</td>
+<td align="center" width="20%">
+<h3>Orgs</h3>
+<p>MMORPG framework and production server stacks</p>
 </td>
 </tr>
 </table>
@@ -430,6 +510,7 @@ object EngineeringPrinciples {
 
 ```txt
 Open source:     active
+Org projects:    MMORPG framework + production RPG server stack
 Private lab:     very active
 Main language:   Kotlin
 Current mood:    rewriting things that should have been designed properly
