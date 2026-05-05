@@ -163,10 +163,6 @@ Bukkit 插件的 Redis 通信层。
 
 ## `organization_projects`
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🕯️ [MinecraftAzathoth](https://github.com/MinecraftAzathoth)
 
 围绕 **Azathoth** 构建的 Minecraft MMORPG 服务框架组织。  
@@ -188,31 +184,6 @@ High availability / auto scaling direction
 Kotlin backend + Vue website
 Designed for ridiculous player counts
 ```
-
-</td>
-<td width="50%">
-
-### ✨ [AshandLight-RPG](https://github.com/AshandLight-RPG)
-
-RPG 服务器工程组织，维护背包、插件配置与服务端运行资产。  
-这些项目更贴近真实服的生产环境：不是写完就扔，而是要能被配置、部署、维护、迁移和救火。
-
-<p>
-  <img src="https://img.shields.io/badge/Backpack-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/albag-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plugin-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-```txt
-RPG server production stack
-Backpack / bag systems
-Server plugins and configuration
-Operational assets, not museum exhibits
-```
-
-</td>
-</tr>
-</table>
 
 > 个人仓库是实验台，组织项目是战场。  
 > 实验台上可以优雅，战场上必须活着。
@@ -337,11 +308,6 @@ zhibeigg
 │  │     ├─ Vue Frontend
 │  │     └─ Documentation / Main Site
 │  │
-│  └─ AshandLight-RPG
-│     ├─ Backpack
-│     ├─ albag
-│     └─ Plugin Configuration Stack
-│
 ├─ Private Lab
 │  ├─ Dagon
 │  ├─ Kthanid
@@ -405,7 +371,7 @@ object EngineeringPrinciples {
 </td>
 <td align="center" width="20%">
 <h3>Orgs</h3>
-<p>MMORPG framework and production server stacks</p>
+<p>MinecraftAzathoth MMORPG framework</p>
 </td>
 </tr>
 </table>
@@ -510,7 +476,7 @@ object EngineeringPrinciples {
 
 ```txt
 Open source:     active
-Org projects:    MMORPG framework + production RPG server stack
+Org projects:    MinecraftAzathoth MMORPG framework
 Private lab:     very active
 Main language:   Kotlin
 Current mood:    rewriting things that should have been designed properly
