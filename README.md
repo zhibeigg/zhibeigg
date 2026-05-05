@@ -247,18 +247,28 @@ Developer experience
 </td>
 <td width="50%">
 
-### 🌐 omegaerp / gameclub / taobao / velocity
+### 🏭 omegaerp
 
-业务与平台类工程。  
-包含 Kotlin、Vue、Java 等技术栈，覆盖管理系统、游戏相关服务与服务端实验。
+面向机械加工企业的轻量级、移动优先 ERP 系统。  
+它不是“表单 + CRUD”的管理后台，而是把接单、工序、仓储、采购、配送、财务、通知和审计串成一条可落地的业务闭环。
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin_1.9-Spring_Boot_3.3-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue_3-TypeScript-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL_%2F_SQLite-Flyway-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 ```txt
-Kotlin backend
-Vue frontend
-Java runtime
-Business systems
-Game service tooling
+Order -> Process -> Warehouse -> Purchase -> Delivery -> Finance -> Audit
+Mobile-first workflow
+Spring Security + JWT
+Enterprise WeCom notification / OAuth
+File preview: image, PDF, DXF, CAD / 3D model
 ```
+
+### 🌐 gameclub / taobao / velocity
+
+业务与平台类工程，覆盖 Vue 前端、Kotlin 后端、Java 服务端实验与游戏相关服务。
 
 </td>
 </tr>
@@ -319,6 +329,13 @@ zhibeigg
 │
 ├─ Product / Business Systems
 │  ├─ omegaerp
+│  │  ├─ Lightweight Manufacturing ERP
+│  │  ├─ Order / Process / Warehouse / Purchase
+│  │  ├─ Delivery / Finance / Audit Workflow
+│  │  ├─ Kotlin + Spring Boot Backend
+│  │  ├─ Vue 3 + TypeScript Frontend
+│  │  └─ PostgreSQL / SQLite + Flyway
+│  │
 │  ├─ gameclub
 │  ├─ taobao
 │  └─ velocity
@@ -363,7 +380,7 @@ object EngineeringPrinciples {
 </td>
 <td align="center" width="20%">
 <h3>Tools</h3>
-<p>Editors, dashboards, automation, internal utilities</p>
+<p>ERP, editors, dashboards, automation, internal utilities</p>
 </td>
 <td align="center" width="20%">
 <h3>Agents</h3>
@@ -477,6 +494,7 @@ object EngineeringPrinciples {
 ```txt
 Open source:     active
 Org projects:    MinecraftAzathoth MMORPG framework
+Product work:    OmegaERP manufacturing workflow system
 Private lab:     very active
 Main language:   Kotlin
 Current mood:    rewriting things that should have been designed properly
