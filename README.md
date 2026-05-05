@@ -338,8 +338,8 @@ object EngineeringPrinciples {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zhibeigg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhibeigg&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhibeigg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhibeigg&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
 
 <br />
 
@@ -365,23 +365,64 @@ object EngineeringPrinciples {
 
 ## `selected_repos`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/zhibeigg/Orryx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhibeigg&repo=Orryx&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
-</a>
-<a href="https://github.com/zhibeigg/Nodens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhibeigg&repo=Nodens&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
-</a>
+### ⚔️ [Orryx](https://github.com/zhibeigg/Orryx)
 
-<a href="https://github.com/zhibeigg/RedisChannel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhibeigg&repo=RedisChannel&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
-</a>
-<a href="https://github.com/zhibeigg/LLM-BRAIN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhibeigg&repo=LLM-BRAIN&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB" />
-</a>
+跨时代技能插件，支持复杂逻辑实现，为稳定高效而生。
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/Orryx?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/zhibeigg/Orryx?style=flat-square" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🛡️ [Nodens](https://github.com/zhibeigg/Nodens)
+
+属性、公式、物品模板与 PRD 伪随机算法组成的玩法底层骨架。
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/Nodens?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/zhibeigg/Nodens?style=flat-square" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔌 [RedisChannel](https://github.com/zhibeigg/RedisChannel)
+
+面向 Bukkit 插件的 Redis 通道，基于 Lettuce 处理跨服消息。
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/RedisChannel?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/zhibeigg/RedisChannel?style=flat-square" />
+</p>
+
+</td>
+<td width="50%">
+
+### 🧠 [LLM-BRAIN](https://github.com/zhibeigg/LLM-BRAIN)
+
+有向记忆图 + 多角色 LLM 类脑智能体系统。
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/LLM-BRAIN?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/zhibeigg/LLM-BRAIN?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
