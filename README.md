@@ -67,13 +67,21 @@
 ### JVM / Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_JDBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor_3-087CFA?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_21_%2F_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlinx.serialization-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exposed-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HikariCP-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Actuator-16A34A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Caffeine_Cache-92400E?style=for-the-badge" />
 </p>
@@ -82,10 +90,21 @@
 
 <p>
   <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rsbuild-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pinia-F7D336?style=for-the-badge&logo=vuedotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
   <img src="https://img.shields.io/badge/Vant-1989FA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TresJS-4FC08D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Mobile_First-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive_UI-9333EA?style=for-the-badge" />
 </p>
@@ -95,11 +114,16 @@
 <p>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Lettuce-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jedis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Release_Assets-111827?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -113,7 +137,15 @@
   <img src="https://img.shields.io/badge/PaperMC-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BungeeCord-6B7280?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Velocity-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Minestom-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forge-8B4513?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TabooLib-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kether-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jexl-64748B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NMS-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ProtocolLib-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MythicMobs-9333EA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Plugin_Runtime-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MMORPG_Framework-7C3AED?style=for-the-badge" />
 </p>
@@ -124,6 +156,12 @@
   <img src="https://img.shields.io/badge/LLM_Agent-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Directed_Memory_Graph-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multi_Role_Agent-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool_Workflow-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ERP-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WeCom_OAuth-1AAD19?style=for-the-badge&logo=wechat&logoColor=white" />
@@ -139,7 +177,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/MockK-7F52FF?style=for-the-badge" />
 </p>
 
 </div>
@@ -227,6 +269,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/better--sqlite3-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Agent-2563EB?style=flat-square" />
   <img src="https://img.shields.io/github/stars/zhibeigg/LLM-BRAIN?style=flat-square" />
 </p>
@@ -252,10 +297,11 @@
 </p>
 
 ```txt
-Modular MMORPG server framework
-High availability / auto scaling direction
-Kotlin backend + Vue website
-Designed for scalable server scenarios
+Kotlin multi-module server framework
+Ktor / gRPC / Protobuf service boundary
+Kafka events + Redis messaging
+Minestom game instance + Agones direction
+PostgreSQL / MongoDB / ClickHouse experiments
 ```
 
 </td>
@@ -267,7 +313,10 @@ Designed for scalable server scenarios
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin_1.9-Spring_Boot_3.3-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_JDBC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue_3-TypeScript-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vant-1989FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logo=vuedotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL_%2F_SQLite-Flyway-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
@@ -306,9 +355,11 @@ Kotlin 系私有工程，偏向系统实验、游戏逻辑、插件能力与领�
 Kotlin 系生产与工具项目，更靠近真实业务、自动化、消息链路、系统集成。
 
 <p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TabooLib-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/AfyBroker-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Automation-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Message_Workflow-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Production_Utilities-16A34A?style=flat-square" />
 </p>
 
 </td>
@@ -316,12 +367,16 @@ Kotlin 系生产与工具项目，更靠近真实业务、自动化、消息链�
 
 #### 🧰 orryx-edit / doudou / gameclub
 
-TypeScript / Vue 工具链与业务平台工程，围绕编辑器、Web 工具、交互式配置和游戏服务辅助展开。
+TypeScript / Vue / React 工具链与业务平台工程，围绕编辑器、Web 工具、交互式配置、图形能力和游戏服务辅助展开。
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Developer_Experience-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exposed-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square" />
 </p>
 
 </td>
@@ -346,7 +401,7 @@ zhibeigg
 │
 ├─ Organization
 │  └─ MinecraftAzathoth
-│     ├─ azathoth           Modular MMORPG Server Framework / Kotlin
+│     ├─ azathoth           Ktor / gRPC / Kafka / Minestom / Agones
 │     └─ azathoth-website   Vue Main Site / Documentation
 │
 ├─ Product Systems
@@ -354,11 +409,13 @@ zhibeigg
 │  │  ├─ Manufacturing ERP
 │  │  ├─ Order / Process / Warehouse / Purchase
 │  │  ├─ Delivery / Finance / Audit Workflow
-│  │  ├─ Kotlin + Spring Boot Backend
-│  │  ├─ Vue 3 + TypeScript Frontend
-│  │  └─ PostgreSQL / SQLite + Flyway
+│  │  ├─ Kotlin + Spring Boot + Spring JDBC Backend
+│  │  ├─ Vue 3 + TypeScript + Vant Frontend
+│  │  ├─ PostgreSQL / SQLite + Flyway
+│  │  └─ Caffeine / WeCom OAuth / File Preview
 │  │
-│  ├─ gameclub              Vue platform / game service tooling
+│  ├─ doudou                Spring WebFlux / React / Three.js / ONNX Runtime
+│  ├─ gameclub              Ktor / Vue / TresJS / GSAP
 │  ├─ taobao                Kotlin business system
 │  └─ velocity              Java server-side experiments
 │
@@ -369,8 +426,10 @@ zhibeigg
 │
 └─ Infrastructure
    ├─ server-backups        Daily release asset backups
-   ├─ Redis messaging       Cross-server event backbone
-   └─ Deployment scripts    Build / packaging / maintenance
+   ├─ Redis / Kafka         Messaging and event backbone
+   ├─ gRPC / Protobuf       Service contracts
+   ├─ Docker                Local deploy and packaging
+   └─ Testcontainers        Integration testing traces
 ```
 
 ---
