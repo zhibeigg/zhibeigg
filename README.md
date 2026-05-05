@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:1D4ED8,100:7C3AED&text=zhibeigg&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Kotlin%20Engineer%20%2F%20Minecraft%20Ecosystem%20Builder%20%2F%20LLM%20Agent%20Explorer&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:1D4ED8,100:7C3AED&text=zhibeigg&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Kotlin%20Engineer%20%2F%20Minecraft%20Ecosystem%20Builder%20%2F%20Product%20System%20Maker&descAlignY=58&descSize=17" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=940&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%8F%AB%E6%88%91%E7%BA%B8%E6%9D%AF%E5%B0%B1%E8%A1%8C.;I+build+systems%2C+not+just+features.;Kotlin+is+the+main+weapon.;Minecraft+plugins%2C+JVM+systems%2C+LLM+agents.;If+the+abstraction+leaks%2C+I+rewrite+the+pipe." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%8F%AB%E6%88%91%E7%BA%B8%E6%9D%AF%E5%B0%B1%E8%A1%8C.;I+build+systems%2C+not+just+features.;Kotlin+is+the+main+weapon.;Minecraft+ecosystem%2C+ERP%2C+JVM%2C+LLM+agents.;If+the+abstraction+leaks%2C+I+rewrite+the+pipe." />
 </p>
 
 <p>
@@ -35,7 +35,7 @@
 > 👋 你好！叫我纸杯就行，点个 star 再走。  
 > 喜欢做各种热爱的事情，和我爱的人一起享受生活。
 
-我主要写 **Kotlin / Java / TypeScript**，长期折腾 **Minecraft 服务端生态、JVM 工程、跨服通信、技能属性系统、Web 工具链、LLM Agent**。
+我主要写 **Kotlin / Java / TypeScript**，长期折腾 **Minecraft 服务端生态、JVM 工程、跨服通信、技能属性系统、ERP 产品系统、Web 工具链、LLM Agent**。
 
 我不太相信“能跑就行”。  
 能跑只是代码没有当场死亡，不代表它值得活着。
@@ -54,127 +54,201 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,python,swift,c&theme=dark" />
-
-### Runtime / Infra / Tools
-
-<img src="https://skillicons.dev/icons?i=gradle,nodejs,redis,mysql,vue,git,github,idea,vscode&theme=dark" />
-
-### Domain
-
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-Main_Weapon-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JVM-System_Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Tooling_&_Agent-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-Control_Panel-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-Client_Side-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+### JVM / Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Minecraft-Server_Ecosystem-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bukkit-Plugin_Runtime-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PaperMC-High_Performance-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TabooLib-Framework-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-Cross_Server_Channel-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-Agentic_System-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_JDBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Actuator-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caffeine_Cache-92400E?style=for-the-badge" />
+</p>
+
+### Frontend / Client
+
+<p>
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-F7D336?style=for-the-badge&logo=vuedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vant-1989FA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile_First-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_UI-9333EA?style=for-the-badge" />
+</p>
+
+### Data / Infra / Ops
+
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lettuce-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Release_Assets-111827?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Minecraft Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bukkit-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PaperMC-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BungeeCord-6B7280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Velocity-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TabooLib-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plugin_Runtime-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MMORPG_Framework-7C3AED?style=for-the-badge" />
+</p>
+
+### AI / Product / Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Agent-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Directed_Memory_Graph-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi_Role_Agent-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool_Workflow-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ERP-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WeCom_OAuth-1AAD19?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Audit_Log-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/File_Preview-PDF_DXF_CAD-9333EA?style=for-the-badge" />
+</p>
+
+### Daily Drivers
+
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## `public_projects`
+## `focus_matrix`
 
 <table>
 <tr>
-<td width="50%">
-
-### ⚔️ [Orryx](https://github.com/zhibeigg/Orryx)
-
-> 跨时代技能插件，支持实现复杂逻辑，为稳定高效而生。
-
-Minecraft 服务端技能系统。  
-重点不是“放技能”，而是把复杂逻辑、配置表达、运行时稳定性、扩展 API 和工程化维护塞进一个能长期活下去的系统里。
-
-<p>
-  <a href="https://orryx.mcwar.cn">
-    <img src="https://img.shields.io/badge/Docs-orryx.mcwar.cn-2563EB?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/github/stars/zhibeigg/Orryx?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/zhibeigg/Orryx?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/zhibeigg/Orryx?style=flat-square" />
-</p>
-
+<td width="25%" align="center">
+<h3>Plugins</h3>
+<p>Bukkit / Paper / TabooLib plugin systems</p>
 </td>
-<td width="50%">
-
-### 🛡️ [Nodens](https://github.com/zhibeigg/Nodens)
-
-> 跨时代属性插件，支持自定义公式、物品克隆模板、PRD 伪随机算法。
-
-属性、公式、模板、随机算法。  
-玩法系统的底层骨架。如果这层设计烂了，上面所有“酷炫功能”都会变成定时炸弹。
-
-<p>
-  <img src="https://img.shields.io/github/stars/zhibeigg/Nodens?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/zhibeigg/Nodens?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/zhibeigg/Nodens?style=flat-square" />
-</p>
-
+<td width="25%" align="center">
+<h3>Runtimes</h3>
+<p>JVM services, Redis channels, cross-server messaging</p>
 </td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔌 [RedisChannel](https://github.com/zhibeigg/RedisChannel)
-
-> 我的世界 Bukkit 插件的 Redis 通道，使用 Lettuce。
-
-Bukkit 插件的 Redis 通信层。  
-跨服同步、消息分发、事件桥接，这种东西写得差，最后一定会在玩家最多的时候提醒你什么叫工程债。
-
-<p>
-  <img src="https://img.shields.io/github/stars/zhibeigg/RedisChannel?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/zhibeigg/RedisChannel?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/zhibeigg/RedisChannel?style=flat-square" />
-</p>
-
+<td width="25%" align="center">
+<h3>Products</h3>
+<p>ERP, dashboards, workflow systems, internal tools</p>
 </td>
-<td width="50%">
-
-### 🧠 [LLM-BRAIN](https://github.com/zhibeigg/LLM-BRAIN)
-
-> Directed Memory Graph + Multi-Role LLM Brain-Like Agent System.
-
-有向记忆图 + 多角色 LLM 类脑智能体系统。  
-不是把 prompt 堆成意大利面，而是尝试让 Agent 拥有结构化记忆、角色分工和可追踪的推理路径。
-
-<p>
-  <img src="https://img.shields.io/github/stars/zhibeigg/LLM-BRAIN?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/zhibeigg/LLM-BRAIN?style=flat-square" />
-</p>
-
+<td width="25%" align="center">
+<h3>Agents</h3>
+<p>LLM memory graph and multi-role workflows</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## `organization_projects`
+## `featured_work`
 
-### 🕯️ [MinecraftAzathoth](https://github.com/MinecraftAzathoth)
+### Open Source Core
 
-围绕 **Azathoth** 构建的 Minecraft MMORPG 服务框架组织。  
-目标不是“再写一个插件”，而是把服务端框架、模块化能力、网站主站和高可用工程拼成一套能扩展的生态。
+<table>
+<tr>
+<td width="50%">
+
+#### ⚔️ [Orryx](https://github.com/zhibeigg/Orryx)
+
+跨时代技能插件，支持复杂逻辑实现，为稳定高效而生。重点不是“放技能”，而是把复杂逻辑、配置表达、运行时稳定性、扩展 API 和工程化维护塞进一个能长期活下去的系统里。
 
 <p>
-  <a href="https://github.com/MinecraftAzathoth/azathoth">
-    <img src="https://img.shields.io/badge/azathoth-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MinecraftAzathoth/azathoth-website">
-    <img src="https://img.shields.io/badge/azathoth--website-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  </a>
+  <a href="https://orryx.mcwar.cn"><img src="https://img.shields.io/badge/Docs-orryx.mcwar.cn-2563EB?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/Orryx?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/zhibeigg/Orryx?style=flat-square" />
+</p>
+
+</td>
+<td width="50%">
+
+#### 🛡️ [Nodens](https://github.com/zhibeigg/Nodens)
+
+跨时代属性插件，支持自定义公式、物品克隆模板、PRD 伪随机算法。属性、公式、模板、随机算法组成玩法系统的底层骨架。
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/Nodens?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/zhibeigg/Nodens?style=flat-square" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔌 [RedisChannel](https://github.com/zhibeigg/RedisChannel)
+
+面向 Bukkit 插件的 Redis 通道，基于 Lettuce 处理跨服同步、消息分发与事件桥接。跨服通信写得差，最后一定会在玩家最多的时候提醒你什么叫工程债。
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/RedisChannel?style=flat-square" />
+</p>
+
+</td>
+<td width="50%">
+
+#### 🧠 [LLM-BRAIN](https://github.com/zhibeigg/LLM-BRAIN)
+
+有向记忆图 + 多角色 LLM 类脑智能体系统。不是把 prompt 堆成意大利面，而是尝试让 Agent 拥有结构化记忆、角色分工和可追踪的推理路径。
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Agent-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/zhibeigg/LLM-BRAIN?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
+### Organization / Product Systems
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🕯️ [MinecraftAzathoth](https://github.com/MinecraftAzathoth)
+
+围绕 **Azathoth** 构建的 Minecraft MMORPG 服务框架组织。目标不是“再写一个插件”，而是把服务端框架、模块化能力、网站主站和高可用工程拼成一套能扩展的生态。
+
+<p>
+  <a href="https://github.com/MinecraftAzathoth/azathoth"><img src="https://img.shields.io/badge/azathoth-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
+  <a href="https://github.com/MinecraftAzathoth/azathoth-website"><img src="https://img.shields.io/badge/website-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
   <img src="https://img.shields.io/github/stars/MinecraftAzathoth/azathoth?style=flat-square" />
 </p>
 
@@ -185,72 +259,12 @@ Kotlin backend + Vue website
 Designed for ridiculous player counts
 ```
 
-> 个人仓库是实验台，组织项目是战场。  
-> 实验台上可以优雅，战场上必须活着。
-
----
-
-## `private_lab`
-
-有些东西不在公开区。  
-不是因为它们不存在，而是因为它们还没准备好被世界乱用。
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐉 Dagon / Kthanid / DragonCollect
-
-Kotlin 系私有工程。  
-偏向系统实验、游戏逻辑、插件能力与领域模型设计。
-
-```txt
-Kotlin-first
-JVM runtime
-Game-oriented systems
-Internal architecture experiments
-```
-
 </td>
 <td width="50%">
 
-### ⚙️ Yahweh / Chemdah / TelEmail
+#### 🏭 omegaerp
 
-Kotlin 系生产与工具项目。  
-更靠近真实业务、自动化、消息链路、系统集成。
-
-```txt
-Internal tools
-Message / email workflow
-Server-side automation
-Production utilities
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧰 orryx-edit / doudou
-
-TypeScript 私有工具链。  
-围绕编辑器、Web 工具、交互式配置与工程辅助展开。
-
-```txt
-TypeScript
-Editor tooling
-Web utilities
-Developer experience
-```
-
-</td>
-<td width="50%">
-
-### 🏭 omegaerp
-
-面向机械加工企业的轻量级、移动优先 ERP 系统。  
-它不是“表单 + CRUD”的管理后台，而是把接单、工序、仓储、采购、配送、财务、通知和审计串成一条可落地的业务闭环。
+面向机械加工企业的轻量级、移动优先 ERP 系统。它不是“表单 + CRUD”的管理后台，而是把接单、工序、仓储、采购、配送、财务、通知和审计串成一条可落地的业务闭环。
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin_1.9-Spring_Boot_3.3-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -260,15 +274,56 @@ Developer experience
 
 ```txt
 Order -> Process -> Warehouse -> Purchase -> Delivery -> Finance -> Audit
-Mobile-first workflow
-Spring Security + JWT
-Enterprise WeCom notification / OAuth
+Mobile-first workflow + role permission
+Spring Security + JWT + WeCom OAuth
 File preview: image, PDF, DXF, CAD / 3D model
 ```
 
-### 🌐 gameclub / taobao / velocity
+</td>
+</tr>
+</table>
 
-业务与平台类工程，覆盖 Vue 前端、Kotlin 后端、Java 服务端实验与游戏相关服务。
+### Private Lab
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🐉 Dagon / Kthanid / DragonCollect
+
+Kotlin 系私有工程，偏向系统实验、游戏逻辑、插件能力与领域模型设计。
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JVM_Runtime-ED8B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Game_Systems-7C3AED?style=flat-square" />
+</p>
+
+</td>
+<td width="33%">
+
+#### ⚙️ Yahweh / Chemdah / TelEmail
+
+Kotlin 系生产与工具项目，更靠近真实业务、自动化、消息链路、系统集成。
+
+<p>
+  <img src="https://img.shields.io/badge/Automation-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Message_Workflow-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Production_Utilities-16A34A?style=flat-square" />
+</p>
+
+</td>
+<td width="33%">
+
+#### 🧰 orryx-edit / doudou / gameclub
+
+TypeScript / Vue 工具链与业务平台工程，围绕编辑器、Web 工具、交互式配置和游戏服务辅助展开。
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer_Experience-9333EA?style=flat-square" />
+</p>
 
 </td>
 </tr>
@@ -284,67 +339,39 @@ File preview: image, PDF, DXF, CAD / 3D model
 
 ```txt
 zhibeigg
-├─ Open Source Surface
-│  ├─ Orryx
-│  │  ├─ Skill Runtime
-│  │  ├─ Complex Logic Execution
-│  │  ├─ Bukkit / Paper Integration
-│  │  └─ Public Documentation
-│  │
-│  ├─ Nodens
-│  │  ├─ Attribute Engine
-│  │  ├─ Formula System
-│  │  ├─ Item Clone Template
-│  │  └─ PRD Random Algorithm
-│  │
-│  ├─ RedisChannel
-│  │  ├─ Redis Pub/Sub
-│  │  ├─ Cross-server Messaging
-│  │  └─ Bukkit Plugin Channel
-│  │
-│  └─ LLM-BRAIN
-│     ├─ Directed Memory Graph
-│     ├─ Multi-role Agent
-│     ├─ Memory Routing
-│     └─ Brain-like Workflow
+├─ Open Source Core
+│  ├─ Orryx                 Skill Runtime / Complex Logic / Bukkit + Paper
+│  ├─ Nodens                Attribute Engine / Formula / PRD Random Algorithm
+│  ├─ RedisChannel          Redis Pub/Sub / Cross-server Messaging
+│  └─ LLM-BRAIN             Directed Memory Graph / Multi-role Agent
 │
-├─ Organization Projects
-│  ├─ MinecraftAzathoth
-│  │  ├─ azathoth
-│  │  │  ├─ Modular MMORPG Server Framework
-│  │  │  ├─ High Availability Direction
-│  │  │  └─ Kotlin Architecture
-│  │  └─ azathoth-website
-│  │     ├─ Vue Frontend
-│  │     └─ Documentation / Main Site
-│  │
-├─ Private Lab
-│  ├─ Dagon
-│  ├─ Kthanid
-│  ├─ DragonCollect
-│  ├─ Yahweh
-│  ├─ Chemdah
-│  ├─ TelEmail
-│  └─ orryx-edit
+├─ Organization
+│  └─ MinecraftAzathoth
+│     ├─ azathoth           Modular MMORPG Server Framework / Kotlin
+│     └─ azathoth-website   Vue Main Site / Documentation
 │
-├─ Product / Business Systems
+├─ Product Systems
 │  ├─ omegaerp
-│  │  ├─ Lightweight Manufacturing ERP
+│  │  ├─ Manufacturing ERP
 │  │  ├─ Order / Process / Warehouse / Purchase
 │  │  ├─ Delivery / Finance / Audit Workflow
 │  │  ├─ Kotlin + Spring Boot Backend
 │  │  ├─ Vue 3 + TypeScript Frontend
 │  │  └─ PostgreSQL / SQLite + Flyway
 │  │
-│  ├─ gameclub
-│  ├─ taobao
-│  └─ velocity
+│  ├─ gameclub              Vue platform / game service tooling
+│  ├─ taobao                Kotlin business system
+│  └─ velocity              Java server-side experiments
+│
+├─ Private Lab
+│  ├─ Dagon / Kthanid / DragonCollect
+│  ├─ Yahweh / Chemdah / TelEmail
+│  └─ orryx-edit / doudou
 │
 └─ Infrastructure
-   ├─ server-backups
-   ├─ Redis-based messaging
-   ├─ Release asset automation
-   └─ Deployment / maintenance scripts
+   ├─ server-backups        Daily release asset backups
+   ├─ Redis messaging       Cross-server event backbone
+   └─ Deployment scripts    Build / packaging / maintenance
 ```
 
 ---
@@ -361,39 +388,6 @@ object EngineeringPrinciples {
     val openSource = "开源不是把代码丢出去，是把维护责任也一起接住"
 }
 ```
-
----
-
-## `things_i_build`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<h3>Plugins</h3>
-<p>Minecraft Bukkit / Paper plugin systems</p>
-</td>
-<td align="center" width="20%">
-<h3>Runtimes</h3>
-<p>JVM services, Redis channels, cross-server logic</p>
-</td>
-<td align="center" width="20%">
-<h3>Tools</h3>
-<p>ERP, editors, dashboards, automation, internal utilities</p>
-</td>
-<td align="center" width="20%">
-<h3>Agents</h3>
-<p>LLM memory graph and multi-role workflows</p>
-</td>
-<td align="center" width="20%">
-<h3>Orgs</h3>
-<p>MinecraftAzathoth MMORPG framework</p>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
